@@ -4,4 +4,4 @@ Detecting Real Face VS Fake Face using Deep Learning (MobileNetV2 - Transfer Lea
 
 Dataset can be found here:
 
-    [https://www.kaggle.com/ciplab/real-and-fake-face-detection]
+    https://www.kaggle.com/ciplab/real-and-fake-face-detection
